@@ -1,14 +1,18 @@
-description: Zehra Korkusuz
-author: "Zehra Korkusuz"
+title: Pandora's Code
+description: > 
+  I like exploring the intersection of deep learning theory and real-world applications
 
 theme: minima
+author: Zehra Korkusuz
+email: wzehrakorkusuz@gmail.com
 
-base_url: /gh-pages-minima-starter
-repository: jsanz/gh-pages-minima-starter
+base_url: /
+repository: zehrakorkusuz/zehrakorkusuz.github.io
 
 # Minima social links
 github_username: zehrakorkusuz
 kaggle_username: zehrakorkusuz
+twitter_username: wzehrakorkusuz
 # Minima: show excerpts in the frontpage
 show_excerpts: true
 

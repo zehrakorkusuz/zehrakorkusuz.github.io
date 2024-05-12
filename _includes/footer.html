@@ -13,18 +13,15 @@
             {%- endif -%}
             </li>
             {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li><a class="u-email" href="mailto:{{ site.email }}">Contact</a></li>
             {%- endif -%}
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
         {%- include social.html -%}
-        {% if site.kaggle_username %}
-        <li><a href="https://www.kaggle.com/{{ site.kaggle_username }}"><img src="{{ '/assets/imgs/kaggle.svg' | relative_url }}" alt="Kaggle"></a></li>
-      {% endif %}
       </div>
-
+      
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
       </div>

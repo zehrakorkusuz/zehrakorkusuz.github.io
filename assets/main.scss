@@ -8,3 +8,27 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: #383838;
 }
+
+.social-media-list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0; /* Reset margin */
+    align-items: center; /* Align items vertically */
+    justify-content: center; /* Center items horizontally */
+}
+
+.social-media-list li {
+    margin-right: 20px;
+    padding-top: 0; /* Reset padding */
+}
+
+.social-media-list li a {
+    display: block; /* Make anchor tags block-level elements */
+}
+
+.social-media-list img {
+    display: block; /* Make images block-level elements */
+    width: 24px; /* Set the width to make the icons larger */
+    height: 24px; /* Set the height to make the icons larger */
+}
