@@ -1,5 +1,8 @@
 # gh-pages-minima-starter
 
+
+(will add how to use the template if someone would like to use it)
+
 This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site]:
 
 * Frontpage that includes your last blog posts: `_pages/frontpage.md`
