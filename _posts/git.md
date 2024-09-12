@@ -1,3 +1,9 @@
+---
+title: "Git and GitHub Basics for Bioinformatics: A Comprehensive Guide"
+date: 2020-09-12
+layout: post
+---
+
 # Git and GitHub Basics for Bioinformatics: A Comprehensive Guide
 
 ## Table of Contents
